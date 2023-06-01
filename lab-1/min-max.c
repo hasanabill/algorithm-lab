@@ -18,7 +18,7 @@ int main()
         }
     }
 
-    printf("Minimum: %d\n Maximum: %d\n", min, max);
+    printf("Minimum: %d\nMaximum: %d\n", min, max);
 
     return 0;
 }
